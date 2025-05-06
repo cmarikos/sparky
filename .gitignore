@@ -1,2 +1,7 @@
 .venv/
+
+# credentials json
 credentials/*.json
+
+# ignore all csv files
+*.csv
