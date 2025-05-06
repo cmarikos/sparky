@@ -3,5 +3,9 @@
 # credentials json
 credentials/*.json
 
-# ignore all csv files
+# ignore all output csv files
 *.csv
+
+# ignore contents of program folders
+Campaigns/
+Organizing/
