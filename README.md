@@ -260,5 +260,5 @@ $SPARK_HOME/bin/spark-submit \
 - **Automation:** Schedule this job with Airflow, Cloud Scheduler, or similar.
 
 That’s it! You now have a local Spark + BigQuery integration, a Git repo, and a working example script.
-Happy data‑engineering! 🎉
+
 
