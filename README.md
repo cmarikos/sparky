@@ -100,7 +100,7 @@ In this step, you’ll use both your **CLI** (command‑line interface) and **VS
    - Use the VS Code **Explorer** pane to see your `.venv` folder and any files.
 
 4. **Create the `.gitignore`**
-   - We never want to push credentials
+   - We don't want to push credentials
    - In the Explorer pane: right-click in your repo root and select **New File** → name it `.gitignore`.
    - Open `.gitignore` in the editor and add:
      ```gitignore
